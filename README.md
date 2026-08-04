@@ -37,8 +37,9 @@ The goal of the assignment was to design and implement a graphical application t
 ## Technologies
 
 - Java
-- Swing
-- AWT
+- Java AWT (Graphics)
+- Java Swing
+- Object-Oriented Programming (OOP)
 
 ---
 
